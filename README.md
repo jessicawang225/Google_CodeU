@@ -1,7 +1,6 @@
-# CodeU Example Project
+# Google CodeU Summer Project
 
-This is an example chat application. It's complete and functional, but leaves
-plenty of room for improvement.
+Improving a web chat app given a very minimal framework
 
 ## Step 1: Download Java
 
